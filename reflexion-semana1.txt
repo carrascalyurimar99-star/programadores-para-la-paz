@@ -1,0 +1,10 @@
+El uso responsable de la información en internet, la participación ciudadana y la 
+organización del trabajo técnico con herramientas como Git están relacionados porque 
+todos requieren responsabilidad, colaboración y verificación de la información. Al usar 
+internet de forma responsable, las personas comparten datos confiables y evitan la 
+desinformación. En la participación ciudadana, esto permite tomar decisiones informadas 
+y contribuir de manera positiva a la comunidad. Por otro lado, Git facilita el trabajo 
+colaborativo al registrar cambios, organizar tareas y mantener un historial de las 
+contribuciones realizadas. Así, tanto en internet como en proyectos técnicos, es 
+importante actuar con ética, respetar las normas y trabajar de forma organizada para 
+lograr mejores resultados.
